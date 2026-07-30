@@ -124,6 +124,6 @@ tail -n 20 /var/log/zabbix/zabbix_agentd.log
 
 ```
 
-`При необходимости прикрепитe сюда скриншоты
-![Название скриншота](ссылка на скриншот)`
+Скриншот-5 к заданию 3:
+![Скриншот-5](https://github.com/Ilembet/Zabbix/blob/ae6f98feb25dbdc07f9e527432ea5b402d53b720/img/Win%20disc%20C.png)
 
