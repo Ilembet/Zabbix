@@ -95,9 +95,14 @@ tail -n 20 /var/log/zabbix/zabbix_agentd.log
 
 ```
 
-`При необходимости прикрепитe сюда скриншоты
-![Название скриншота 2](ссылка на скриншот 2)`
+Скриншот-2 к заданию 2:
+![Скриншот-2](https://github.com/Ilembet/Zabbix/blob/9213cb0a02900aafb30b5103756b5911213abcf8/img/%D1%81%D0%BA%D1%80%D0%B8%D0%BD%D1%88%D0%BE%D1%82%20%D1%80%D0%B0%D0%B7%D0%B4%D0%B5%D0%BB%D0%B0%20Configuration%20%20Hosts.png)
 
+Скриншот-3 к заданию 2:
+![Скриншот-3](https://github.com/Ilembet/Zabbix/blob/9213cb0a02900aafb30b5103756b5911213abcf8/img/%D1%81%D0%BA%D1%80%D0%B8%D0%BD%D1%88%D0%BE%D1%82%20%D0%BB%D0%BE%D0%B3%D0%B0%20zabbix%20agent.png)
+
+Скриншот-4 к заданию 2:
+![Скриншот-4](https://github.com/Ilembet/Zabbix/blob/9213cb0a02900aafb30b5103756b5911213abcf8/img/%D1%81%D0%BA%D1%80%D0%B8%D0%BD%D1%88%D0%BE%D1%82%20%D1%80%D0%B0%D0%B7%D0%B4%D0%B5%D0%BB%D0%B0%20Monitoring%20%20Latest%20data.png)
 
 ---
 
