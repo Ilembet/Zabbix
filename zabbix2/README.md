@@ -170,3 +170,4 @@ if __name__ == "__main__":
 
 ```
 
+![Файл-1](https://github.com/Ilembet/Zabbix/blob/6da8a594d621e92573280cca1bcfcbd1d7b5b25d/zabbix2/Vagrantfile)
