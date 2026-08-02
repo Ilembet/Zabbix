@@ -56,7 +56,7 @@ The default URL for Zabbix UI when using Apache web server is http://127.0.0.1/z
 ```
 
 Скриншот-1 к заданию 1:
-![Скриншот-1](https://github.com/Ilembet/Zabbix/blob/main/img/%D1%81%D0%BA%D1%80%D0%B8%D0%BD%D1%88%D0%BE%D1%82%20%D0%B0%D0%B2%D1%82%D0%BE%D1%80%D0%B8%D0%B7%D0%B0%D1%86%D0%B8%D0%B8%20%D0%B2%20%D0%B0%D0%B4%D0%BC%D0%B8%D0%BD%D0%BA%D0%B5.png)
+![Скриншот-1](https://github.com/Ilembet/Zabbix/blob/63a7f82630f26fd2544eaf73bb62ad87b5dd0d22/zabbix1/img/%D1%81%D0%BA%D1%80%D0%B8%D0%BD%D1%88%D0%BE%D1%82%20%D0%B0%D0%B2%D1%82%D0%BE%D1%80%D0%B8%D0%B7%D0%B0%D1%86%D0%B8%D0%B8%20%D0%B2%20%D0%B0%D0%B4%D0%BC%D0%B8%D0%BD%D0%BA%D0%B5.png)
 
 
 ---
@@ -96,13 +96,13 @@ tail -n 20 /var/log/zabbix/zabbix_agentd.log
 ```
 
 Скриншот-2 к заданию 2:
-![Скриншот-2](https://github.com/Ilembet/Zabbix/blob/9213cb0a02900aafb30b5103756b5911213abcf8/img/%D1%81%D0%BA%D1%80%D0%B8%D0%BD%D1%88%D0%BE%D1%82%20%D1%80%D0%B0%D0%B7%D0%B4%D0%B5%D0%BB%D0%B0%20Configuration%20%20Hosts.png)
+![Скриншот-2](https://github.com/Ilembet/Zabbix/blob/63a7f82630f26fd2544eaf73bb62ad87b5dd0d22/zabbix1/img/%D1%81%D0%BA%D1%80%D0%B8%D0%BD%D1%88%D0%BE%D1%82%20%D1%80%D0%B0%D0%B7%D0%B4%D0%B5%D0%BB%D0%B0%20Configuration%20%20Hosts.png)
 
 Скриншот-3 к заданию 2:
-![Скриншот-3](https://github.com/Ilembet/Zabbix/blob/9213cb0a02900aafb30b5103756b5911213abcf8/img/%D1%81%D0%BA%D1%80%D0%B8%D0%BD%D1%88%D0%BE%D1%82%20%D0%BB%D0%BE%D0%B3%D0%B0%20zabbix%20agent.png)
+![Скриншот-3](https://github.com/Ilembet/Zabbix/blob/63a7f82630f26fd2544eaf73bb62ad87b5dd0d22/zabbix1/img/%D1%81%D0%BA%D1%80%D0%B8%D0%BD%D1%88%D0%BE%D1%82%20%D0%BB%D0%BE%D0%B3%D0%B0%20zabbix%20agent.png)
 
 Скриншот-4 к заданию 2:
-![Скриншот-4](https://github.com/Ilembet/Zabbix/blob/9213cb0a02900aafb30b5103756b5911213abcf8/img/%D1%81%D0%BA%D1%80%D0%B8%D0%BD%D1%88%D0%BE%D1%82%20%D1%80%D0%B0%D0%B7%D0%B4%D0%B5%D0%BB%D0%B0%20Monitoring%20%20Latest%20data.png)
+![Скриншот-4](https://github.com/Ilembet/Zabbix/blob/63a7f82630f26fd2544eaf73bb62ad87b5dd0d22/zabbix1/img/%D1%81%D0%BA%D1%80%D0%B8%D0%BD%D1%88%D0%BE%D1%82%20%D1%80%D0%B0%D0%B7%D0%B4%D0%B5%D0%BB%D0%B0%20Monitoring%20%20Latest%20data.png)
 
 ---
 
@@ -125,5 +125,5 @@ tail -n 20 /var/log/zabbix/zabbix_agentd.log
 ```
 
 Скриншот-5 к заданию 3:
-![Скриншот-5](https://github.com/Ilembet/Zabbix/blob/ae6f98feb25dbdc07f9e527432ea5b402d53b720/img/Win%20disc%20C.png)
+![Скриншот-5](https://github.com/Ilembet/Zabbix/blob/63a7f82630f26fd2544eaf73bb62ad87b5dd0d22/zabbix1/img/Win%20disc%20C.png)
 
